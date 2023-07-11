@@ -30,6 +30,11 @@
   <p align="center">
     Group B7 CSCI3100 project
     <br />
+    Junwoo Yun<br />
+    Taewhei Kim<br />
+    Jounghoon Kim<br />
+    Taehun Lee<br />
+    HyunJun Yoo<br />
     <br />
     <br />
   </p>
