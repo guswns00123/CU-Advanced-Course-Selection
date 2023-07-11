@@ -1,0 +1,1079 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.admin-page-qzQ {
+  box-sizing: border-box;
+  padding-bottom: 0.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fafafa;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ {
+  margin-right: 4.7rem;
+  width: calc(100% - 4.7rem);
+  height: 105.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx {
+  margin-right: 4.2269rem;
+  width: 24.9731rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .rectangle-38-opk {
+  width: 24.9rem;
+  height: 105.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .rectangle-39-YXS {
+  width: 24.9rem;
+  height: 105.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .cuhk-course-Vha {
+  width: 12.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 3.6rem;
+  font-size: 2.0207rem;
+  font-weight: 700;
+  line-height: 1.4999999056;
+  color: #081131;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .image-2-bEp {
+  width: 3.0277rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 3.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .admin-page-umJ {
+  box-sizing: border-box;
+  padding: 1.2rem 8.357rem 1.2rem 1.522rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 44.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #725cff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .admin-page-umJ .ui-icon-message-filled-naC {
+  margin-right: 1.0149rem;
+  width: 2.4358rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .admin-page-umJ .admin-page-vRW {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC {
+  width: 24.1731rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 24.8rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-exqb-Aak {
+  margin: 0rem 1.743rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 11.857rem 1.4rem 1.725rem;
+  width: calc(100% - 1.7433rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-exqb-Aak .ui-icon-book-filled-3eY {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0298rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-exqb-Aak .course-wjv {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA {
+  margin-left: 1.5rem;
+  width: 22.6731rem;
+  height: 13.8rem;
+  position: relative;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-oGL {
+  width: 20.7731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-oGL .rectangle-8-Ln4 {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-oGL .course-management-HBW {
+  width: 15.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-oGL .ui-icon-document-filled-PEY {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-uig {
+  width: 22.6731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-uig .rectangle-8-FXe {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-uig .course-recommndation-Ptk {
+  width: 17.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-uig .ui-icon-document-filled-huS {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-qkk {
+  box-sizing: border-box;
+  padding: 1.4rem 5.407rem 1.4rem 1.827rem;
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-qkk .ui-icon-document-filled-MDJ {
+  margin-right: 1.3194rem;
+  width: 1.8269rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .courses-ESC .auto-group-dg5h-TyA .classes-qkk .course-info-5QC {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .main-page-o5J {
+  box-sizing: border-box;
+  padding: 1.4rem 9.457rem 1.4rem 1.725rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 19.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .main-page-o5J .ui-icon-book-filled-6aC {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0298rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .main-page-o5J .main-page-Dep {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .my-profile-wap {
+  box-sizing: border-box;
+  padding: 1.2rem 1.5224rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 14.9rem;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .my-profile-wap .group-1-rxg {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.203rem;
+  width: 11.1507rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .my-profile-wap .group-1-rxg .ui-icon-home-filled-nrL {
+  margin: 0rem 1.218rem 0.004rem 0rem;
+  width: 2.0298rem;
+  height: 1.9964rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-c2d1-5Nx .my-profile-wap .group-1-rxg .my-profile-X3E {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC {
+  margin-top: 7.5rem;
+  width: 110.1rem;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .auto-group-gmum-yvp {
+  box-sizing: border-box;
+  padding: 0rem 1.2rem 2rem 1.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .auto-group-gmum-yvp .admin-system-KDz {
+  margin-bottom: 5.4rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .auto-group-gmum-yvp .user-information-jHi {
+  margin-left: 0.4rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 0.9rem 4.4rem 1rem 4.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  overflow-y: scroll;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 {
+  margin: 0rem 29.6rem 1.3rem 0rem;
+  width: calc(100% - 29.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .component-156-7p4 {
+  margin: 0.3rem 6.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.7rem 3.975rem 1.7rem 3.45rem;
+  width: 11.7rem;
+  height: 5.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  border-radius: 3.6rem;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .component-156-7p4 .state-layer-d1i {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .component-156-7p4 .state-layer-d1i .label-text-ahe {
+  margin-right: 1.325rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .component-156-7p4 .state-layer-d1i .icon-6vt {
+  margin-top: 0.075rem;
+  width: 0.75rem;
+  height: 0.375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .search-box-1Y4 {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.8rem 2rem 1.6rem 2rem;
+  width: 53.8rem;
+  height: 5.4rem;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .search-box-1Y4 .group-407-XWQ {
+  width: 9.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .search-box-1Y4 .group-407-XWQ .union-sqA {
+  margin-right: 1.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .auto-group-6e2f-b52 .search-box-1Y4 .group-407-XWQ .search-2CG {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr {
+  margin: 0rem 14.8rem 1.903rem 0rem;
+  width: 81.1rem;
+  height: 27.5968rem;
+  position: relative;
+  flex-shrink: 0;
+  
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE {
+  text-overflow: ellipsis;
+  width: 81.1rem;
+  height: 12.4996rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .hader-CFA {
+  margin-bottom: 0.4996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .hader-CFA .sid-wiY {
+  width:18rem;
+  margin-left:-3rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .hader-CFA .name-5pk {
+  width:20rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .hader-CFA .program-R7v {
+  width:25rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .hader-CFA .college-YyE {
+  width:24rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .hader-CFA .study-year-h5S {
+  width:10rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .recommended-course-list-fFE .frame-483-ELG {
+  width: 10rem;
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe {
+  
+  text-overflow: ellipsis;
+  position: absolute;
+  left: 0;
+  top: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Vmz {
+  
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Vmz .item-1155123456-qqr {
+  margin-left: -3rem;
+  width:18rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Vmz .james-mDi {
+  width:20rem;
+  overflow: hidden;
+  padding-right: 5rem;
+  text-overflow: ellipsis;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Vmz .csci-WSC {
+  width:25rem;
+  
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Vmz .shaw-eHW {
+  width:24rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Vmz .item-3-awr {
+  width:5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-KeY {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-KeY .item-1155123452-57v {
+  margin-right: 12.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-KeY .james-1XN {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-KeY .csci-kE4 {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-KeY .shaw-632 {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-KeY .item-3-2xG {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-BKN {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-BKN .item-1155123456-LCG {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-BKN .james-fVS {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-BKN .csci-1ZJ {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-BKN .shaw-ZKv {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-BKN .item-3-76Y {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-qoE {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-qoE .item-1155123456-nTa {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-qoE .james-81e {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-qoE .csci-Gde {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-qoE .shaw-1bE {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-qoE .item-3-9xL {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Hoe {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Hoe .item-1155123456-SwS {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Hoe .james-PLt {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Hoe .csci-L1E {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Hoe .shaw-GvU {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-Hoe .item-3-czL {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-AW4 {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-AW4 .item-1155123456-XLc {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-AW4 .james-s9a {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-AW4 .csci-DDS {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-AW4 .shaw-MKe {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-AW4 .item-3-Vgk {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-e3r {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-e3r .item-1155123456-aiC {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-e3r .james-X7e {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-e3r .csci-4dN {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-e3r .shaw-oax {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-e3r .item-3-wx4 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-tsJ {
+  margin-bottom: 0.6996rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-tsJ .item-1155123456-3kC {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-tsJ .james-nSt {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-tsJ .csci-vZ6 {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-tsJ .shaw-49W {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-tsJ .item-3-Zc4 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-WGQ {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-WGQ .item-1155123456-s6x {
+  margin-right: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-WGQ .james-zhN {
+  margin-right: 11.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-WGQ .csci-wcc {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-WGQ .shaw-gaC {
+  margin-right: 12.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .group-469-LTr .basics-of-mobile-ux-yoe .hader-WGQ .item-3-E5v {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .top-tutors-GHe .out-of-310--Zdz {
+  margin-left: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.admin-page-qzQ .auto-group-ospu-9VJ .auto-group-6uvf-SAC .courses-information-s8t {
+  margin-left: 1.6rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.admin-page-qzQ .courses-information-bKn {
+  margin: 0rem 0rem 2.9rem 26.1rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

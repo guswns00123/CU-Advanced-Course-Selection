@@ -1,0 +1,1405 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.user-profile-page-VuA {
+  box-sizing: border-box;
+  padding-right: 3.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #fafafa;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi {
+  margin: 0rem 3.1rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding: 3.8rem 1.17rem 1.8rem 1.3rem;
+  width: 24.9rem;
+  height: 105.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi .auto-group-ugc3-G2k {
+  margin: 0rem 4.93rem 92.3rem 0.7rem;
+  width: calc(100% - 5.6299rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi .auto-group-ugc3-G2k .image-2-Nba {
+  margin-right: 1.3723rem;
+  width: 3.0277rem;
+  height: 2.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi .auto-group-ugc3-G2k .cuhk-course-UuW {
+  font-size: 2.0207rem;
+  font-weight: 700;
+  line-height: 1.4999999056;
+  color: #081131;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi .log-out-zN4 {
+  box-sizing: border-box;
+  padding: 1.2rem 11.657rem 1.2rem 1.522rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi .log-out-zN4 .ui-icon-message-filled-WLQ {
+  margin-right: 1.0149rem;
+  width: 2.4358rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-vy2j-afi .log-out-zN4 .log-out-dR2 {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW {
+  margin-bottom: 2rem;
+  width: 112.7rem;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE {
+  margin: 0rem 1.4rem 0.2rem 0rem;
+  width: 71.7rem;
+  height: 47.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .rectangle-387-7Uc {
+  width: 111em;
+  height: 47.0097rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .group-445-37N {
+  width: 7.3086rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 59.8rem;
+  top: 2.9915rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .group-445-37N .view-all-Mdr {
+  margin-right: 0.8rem;
+  font-size: 1.5391rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .group-445-37N .vector-474-stroke-t7z {
+  margin-top: 0.1609rem;
+  width: 0.6086rem;
+  height: 1.2062rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e {
+  width: 70.431rem;
+  height: 35.6134rem;
+  position: absolute;
+  left: 1.269rem;
+  top:  10rem;
+  overflow: hidden;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY {
+  margin-bottom: 11.8rem;
+  box-sizing: border-box;
+  padding-bottom: 3.1996rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-rj2 {
+  margin: 0rem 24.831rem 3.2rem 0rem;
+  width: calc(100% - 24.831rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-rj2 .student-name-aQ8 {
+  width:37rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-rj2 .tony-kim-6tG {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-3Hi {
+  margin: 0rem 22.831rem 3.2rem 0rem;
+  width: calc(100% - 22.831rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-3Hi .sid-mzQ {
+  width:37rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-3Hi .item-1155123419-Wh6 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-Esz {
+  margin: 0rem 28.031rem 3.2rem 0rem;
+  width: calc(100% - 28.031rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-Esz .program-yqa {
+  width:37rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-Esz .csci-vVv {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-TVr {
+  margin: 0rem 27.631rem 3.2rem 0rem;
+  width: calc(100% - 27.631rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-TVr .college-PeQ {
+  margin-right: 32.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-TVr .shaw-vuE {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-NWL {
+  margin: 0rem 22.131rem 3.2rem 0rem;
+  width: calc(100% - 22.131rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-NWL .admitted-term-hHi {
+  width:37rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-NWL .term-1-bdz {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-hh2 {
+  margin: 0rem 8.831rem 3.2rem 0rem;
+  width: calc(100% - 8.831rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-hh2 .email-DQU {
+  width:37rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-hh2 .linkcuhkeduhk-7kk {
+  margin-bottom: 0.0002rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-cSc {
+  margin-right: 30.831rem;
+  width: calc(100% - 30.831rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-cSc .study-year-k32 {
+  width:37rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .auto-group-x62o-YCY .hader-cSc .item-3-stL {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz {
+  margin-bottom: 3.5rem;
+  width: 89.9rem;
+  display: flex;
+  align-items: flex-end;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz .course-name-wtC {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz .date-U7S {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz .start-time-ypt {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz .end-time-JcG {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz .location-344 {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-omz .vector-mEx {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi {
+  margin-bottom: 3.5rem;
+  width: 89.9rem;
+  display: flex;
+  align-items: flex-end;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi .course-name-Srt {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi .date-AXz {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi .start-time-6gY {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi .end-time-qPE {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi .location-xye {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-7Zi .vector-uP6 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL {
+  width: 89.9rem;
+  display: flex;
+  align-items: flex-end;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL .course-name-xsA {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL .date-V6Q {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL .start-time-1qS {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL .end-time-9Rr {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL .location-ggg {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .schedule-list-p1e .hader-RcL .vector-Dgc {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .frame-455-ZVa {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 1.1421rem;
+  top: 0.7479rem;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .frame-455-ZVa .my-academics-hLt {
+  width: 22.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .weekly-schedule-nhE .frame-455-ZVa .m-bhA {
+  width: 2.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe {
+  box-sizing: border-box;
+  padding: 2.7rem 2.3rem 2.6rem 2.3rem;
+  width: 39.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .academic-progress-ddr {
+  margin: 0rem 3.4rem 5rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 {
+  margin-bottom: 1.7rem;
+  box-sizing: border-box;
+  padding: 2.1rem 3.391rem 2.1rem 3.3rem;
+  width: 100%;
+  height: 9.7rem;
+  background-color: #fafafa;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-2cwf-AGQ {
+  width: 5.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-2cwf-AGQ .item-50-J7i {
+  width: 3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.9rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #725cff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-2cwf-AGQ .group-458-Mbn {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-2cwf-AGQ .group-458-Mbn .ellipse-169-uNQ {
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-ddw9-Ddz {
+  box-sizing: border-box;
+  padding: 0.348rem 0rem 0.323rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-ddw9-Ddz .auto-group-y8ub-Lic {
+  margin-right: 0.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-ddw9-Ddz .auto-group-y8ub-Lic .graduation-requirement-VLc {
+  margin-bottom: 0.929rem;
+  font-size: 1.7287rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-ddw9-Ddz .auto-group-y8ub-Lic .item-100-200-25e {
+  font-size: 1.4371rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-YF2 .group-460-2fz .auto-group-ddw9-Ddz .vector-474-stroke-xEC {
+  margin-bottom: 0.0253rem;
+  width: 0.8086rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c {
+  margin-bottom: 2.4rem;
+  box-sizing: border-box;
+  padding: 2.1rem 3.391rem 2.1rem 3.3rem;
+  width: 100%;
+  height: 9.7rem;
+  background-color: #fafafa;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-ldrv-8nt {
+  width: 5.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-ldrv-8nt .item-30-tXA {
+  width: 3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.9rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-ldrv-8nt .group-458-bRa {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-ldrv-8nt .group-458-bRa .ellipse-169-wkL {
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-jfyp-Gnc {
+  box-sizing: border-box;
+  padding: 0.348rem 0rem 0.323rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-jfyp-Gnc .auto-group-e9a3-CwA {
+  margin-right: 5.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-jfyp-Gnc .auto-group-e9a3-CwA .major-requirement-Mp4 {
+  margin-bottom: 0.929rem;
+  font-size: 1.7287rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-jfyp-Gnc .auto-group-e9a3-CwA .item-30-100-VvG {
+  font-size: 1.4371rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .styling-with-css-f8c .group-460-Bck .auto-group-jfyp-Gnc .vector-474-stroke-SKi {
+  margin-bottom: 0.0253rem;
+  width: 0.8086rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx {
+  box-sizing: border-box;
+  padding: 2.1rem 3.391rem 2.1rem 3.3rem;
+  width: 100%;
+  height: 9.7rem;
+  background-color: #fafafa;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-4ytx-F2G {
+  width: 5.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-4ytx-F2G .item-50-zVe {
+  width: 3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.9rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #725cff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-4ytx-F2G .group-458-6oa {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-4ytx-F2G .group-458-6oa .ellipse-169-eaC {
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-oezz-ycU {
+  box-sizing: border-box;
+  padding: 0.348rem 0rem 0.323rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-oezz-ycU .auto-group-xv35-7Ct {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-oezz-ycU .auto-group-xv35-7Ct .minor-requirement-488 {
+  margin-bottom: 0.929rem;
+  font-size: 1.7287rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-oezz-ycU .auto-group-xv35-7Ct .item-30-60-ByS {
+  font-size: 1.4371rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .auto-group-v29r-SNU .homework-progreee-vDe .code-foundation-xYx .group-460-5tU .auto-group-oezz-ycU .vector-474-stroke-L5e {
+  margin-bottom: 0.0253rem;
+  width: 0.8086rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz {
+  width: 111.3rem;
+  height: 46.2rem;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g {
+  width: 106.8086rem;
+  height: 29.9rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 12.1rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS {
+  margin-right: 3.3rem;
+  width: 112rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS {
+  margin-bottom: 3.1996rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS .course-name-wzY {
+  margin-right: 11.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS .date-5ax {
+  margin-right: 13.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS .start-time-RPv {
+  margin-right: 9.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS .end-time-jQc {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS .location-GQY {
+  margin-right: 8.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-odS .enrolled-1N8 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE {
+  margin-bottom: 3.1996rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .course-name-6Pa {
+  
+  width:21rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .date-Rgk {
+  
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .start-time-xwa {
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .end-time-WTJ {
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .location-rGG {
+  width:20rem;
+  margin-right: 5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  overflow:hidden;
+  text-overflow: ellipsis;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .enrolled-nvc {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-9jE .enrolled-nvc:hover{
+  color:#00bfff;
+}
+
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .selected-courses-8Dn {
+  margin-bottom: 3.5rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-4NL {
+  margin-bottom: 3.1996rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-4NL .course-name-Qh6 {
+  margin-right: 11.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-4NL .date-M6Y {
+  margin-right: 13.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-4NL .start-time-J1n {
+  margin-right: 9.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-4NL .end-time-Ew2 {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-4NL .location-P3E {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-WtY {
+  margin-bottom: 3.1996rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-WtY .course-name-4QG {
+  margin-right: 11.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-WtY .date-CmN {
+  margin-right: 13.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-WtY .start-time-YqE {
+  margin-right: 9.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-WtY .end-time-6Lx {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-WtY .location-e7a {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-nja {
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-nja .course-name-Lm6 {
+  margin-right: 11.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-nja .date-HAY {
+  margin-right: 13.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-nja .start-time-dEQ {
+  margin-right: 9.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-nja .end-time-mbW {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .schedule-list-5hS .hader-nja .location-uxc {
+    margin-right:8.5rem;
+    font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .group-445-rsr {
+  margin: 12.3rem 0rem 15.7rem 0rem;
+  height: calc(100% - 28rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .group-445-rsr .view-all-Pct {
+  margin-right: 0.8rem;
+  font-size: 1.5391rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .auto-group-egbd-A4g .group-445-rsr .vector-474-stroke-8Ka {
+  margin-top: 0.029rem;
+  width: 0.6086rem;
+  height: 1.129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN {
+  width: 93.9531rem;
+  height: 8.0682rem;
+  position: absolute;
+  left: 1.3779rem;
+  top: 0.7354rem;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 {
+  width: 93.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 0.1531rem;
+  top: 6.0682rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 .course-name-Kex {
+  margin-right: 11.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 .date-4Me {
+  margin-right: 13.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 .start-time-11z {
+  margin-right: 9.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 .end-time-8cQ {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 .location-fsE {
+  margin-right: 8.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-bU4 .enrolled-cGg {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .my-courses-x5e {
+  width: 17.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 {
+  width: 93.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 0.1531rem;
+  top: 6.0682rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 .course-name-nqN {
+  width:21rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 .date-LM6 {
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 .start-time-sbv {
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 .end-time-D9z {
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 .location-Yxx {
+  width:25rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-477-rmN .hader-Gs2 .enrolled-VdJ {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-445-2t8 {
+  width: 7.3086rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 101rem;
+  top: 1.9rem;
+  display: flex;
+  align-items: center;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-445-2t8 .view-all-AUY {
+  margin-right: 0.8rem;
+  font-size: 1.5391rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-profile-page-VuA .auto-group-xukh-6ZW .weekly-schedule-RMz .group-445-2t8 .vector-474-stroke-hzG {
+  margin-top: 0.029rem;
+  width: 0.6086rem;
+  height: 1.129rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,330 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.course-information-vfa {
+  width: 100%;
+  height: 105.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fafafa;
+}
+.course-information-vfa .auto-group-m18x-FSx {
+  width: 16.8rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 4.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-information-vfa .auto-group-m18x-FSx .image-2-N1n {
+  margin-right: 1.3723rem;
+  width: 3.0277rem;
+  height: 2.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+}
+.course-information-vfa .auto-group-m18x-FSx .cuhk-course-tVv {
+  font-size: 2.0207rem;
+  font-weight: 700;
+  line-height: 1.4999999056;
+  color: #081131;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-vfa .admin-page-cgp {
+  box-sizing: border-box;
+  padding: 1.2rem 8.357rem 1.2rem 1.522rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 42.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .admin-page-cgp .ui-icon-message-filled-7Ng {
+  margin-right: 1.0149rem;
+  width: 2.4358rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-vfa .admin-page-cgp .auto-group-k1nj-Svk {
+  margin: 0.3rem 0rem 0.1rem 0rem;
+  width: 9.1rem;
+  height: calc(100% - 0.4rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.course-information-vfa .admin-page-cgp .auto-group-k1nj-Svk .admin-page-NJc {
+  width: 9.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-vfa .admin-page-cgp .auto-group-k1nj-Svk .admin-page-V8L {
+  width: 9.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-vfa .courses-PUc {
+  width: 23.9731rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 22.8rem;
+}
+.course-information-vfa .courses-PUc .auto-group-efsh-7vQ {
+  margin: 0rem 1.543rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 11.857rem 1.4rem 1.725rem;
+  width: calc(100% - 1.5433rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .courses-PUc .auto-group-efsh-7vQ .ui-icon-book-filled-QuW {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0298rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-vfa .courses-PUc .auto-group-efsh-7vQ .course-8qW {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 {
+  margin-left: 1.3rem;
+  width: 22.6731rem;
+  height: 13.8rem;
+  position: relative;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-wAg {
+  width: 20.7731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-wAg .rectangle-8-5Gt {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-wAg .course-management-1AY {
+  width: 15.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-wAg .ui-icon-document-filled-7Da {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-37E {
+  width: 22.6731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-37E .rectangle-8-yWg {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-37E .course-recommndation-X2Q {
+  width: 17.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-37E .ui-icon-document-filled-q36 {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-M1S {
+  box-sizing: border-box;
+  padding: 1.4rem 5.407rem 1.4rem 1.827rem;
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #725cff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-M1S .ui-icon-document-filled-rTz {
+  margin-right: 1.3194rem;
+  width: 1.8269rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-vfa .courses-PUc .auto-group-uzxf-GB2 .classes-M1S .course-info-C24 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-vfa .main-page-iFJ {
+  box-sizing: border-box;
+  padding: 1.4rem 9.457rem 1.4rem 1.725rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 17.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .main-page-iFJ .ui-icon-book-filled-PMS {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0298rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-vfa .main-page-iFJ .main-page-72Y {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-vfa .my-profile-Ecx {
+  box-sizing: border-box;
+  padding: 1.2rem 1.5224rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 12.9rem;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-vfa .my-profile-Ecx .group-1-mMz {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.203rem;
+  width: 11.1508rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.course-information-vfa .my-profile-Ecx .group-1-mMz .ui-icon-home-filled-69N {
+  margin: 0rem 1.218rem 0.004rem 0rem;
+  width: 2.0298rem;
+  height: 1.9964rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-vfa .my-profile-Ecx .group-1-mMz .my-profile-cdW {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.course-name-82t{
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  
+}
+.moreinfo:hover{
+  color:#00bfff;
+}
+.grade-BWx{
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

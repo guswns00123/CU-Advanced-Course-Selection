@@ -1,0 +1,460 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.course-information-pop-up-TG4 {
+  width: 100%;
+  height: 105.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #fafafa;
+}
+.course-information-pop-up-TG4 .all-courses-z16 {
+  width: 206.3rem;
+  height: 40.4rem;
+  position: absolute;
+  left: 27rem;
+  top: 12.9rem;
+  border-radius: 1.0965rem;
+}
+.course-information-pop-up-TG4 .all-courses-z16 .rectangle-385-Wk8 {
+  width: 114rem;
+  height: 40.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.0965rem;
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv {
+  width: 107.8rem;
+  height: 36.6rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 1.7rem;
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-details-NXS {
+  margin-bottom: 2.7rem;
+  font-size: 2.3392rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL {
+  max-width: 107.8rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-1 {
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-3 {
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-5 {
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-6 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-7 {
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-8 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-9 {
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-10 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+.course-information-pop-up-TG4 .all-courses-z16 .group-456-FBv .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL .course-description-this-course-introduces-software-life-cycles-system-modelling-requirements-analysis-and-specifications-design-techniques-implementation-methodology-testings-maintenance-and-engineering-laboratory-analytical-tools-software-metrics-system-performance-measurement-and-evaluation-management-techniques-estimations-planning-project-management-communication-skills-and-documentations-introductions-to-case-tools-and-security-units-300-grading-graded-components-lecture-interactive-tutorial-course-career-undergradudate-department-department-of-computer-science-engineering-6iL-sub-11 {
+}
+.course-information-pop-up-TG4 .csci3100-software-engineering-2Bz {
+  width: 50rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 6.3rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-pop-up-TG4 .cuhk-course-7UL {
+  width: 12.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 4.1rem;
+  font-size: 2.0207rem;
+  font-weight: 700;
+  line-height: 1.4999999056;
+  color: #081131;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-pop-up-TG4 .image-2-RV2 {
+  width: 3.0277rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 4.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.course-information-pop-up-TG4 .admin-page-jkc {
+  box-sizing: border-box;
+  padding: 1.2rem 8.357rem 1.2rem 1.522rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 42.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .admin-page-jkc .ui-icon-message-filled-RdS {
+  margin-right: 1.0149rem;
+  width: 2.4358rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .admin-page-jkc .admin-page-ZDr {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .courses-skL {
+  width: 139.4rem;
+  height: 38.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 3.4rem;
+}
+.course-information-pop-up-TG4 .courses-skL .rectangle-8-Pig {
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 19.4rem;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .course-8AU {
+  width: 5.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 20.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-pop-up-TG4 .courses-skL .ui-icon-book-filled-EjJ {
+  width: 2.0298rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.7254rem;
+  top: 21rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-Acx {
+  width: 20.7731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.3493rem;
+  top: 33.5rem;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-Acx .rectangle-8-JjA {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-Acx .course-management-eY8 {
+  width: 15.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-Acx .ui-icon-document-filled-MhS {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-V2x {
+  width: 22.6731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.3493rem;
+  top: 28.9rem;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-V2x .rectangle-8-pL8 {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-V2x .course-recommndation-9tC {
+  width: 17.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-V2x .ui-icon-document-filled-fbe {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-zdv {
+  width: 136.0507rem;
+  height: 29.3rem;
+  position: absolute;
+  left: 3.3493rem;
+  top: 0;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-zdv .rectangle-9-vXa {
+  margin: 0rem 0rem 17.7rem 96.951rem;
+  width: 39.1rem;
+  height: 6.8rem;
+  background-color: #725cff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-zdv .auto-group-3moy-EoA {
+  margin-right: 116.9701rem;
+  box-sizing: border-box;
+  padding: 1.4rem 5.407rem 1.4rem 1.827rem;
+  width: calc(100% - 116.9701rem);
+  display: flex;
+  align-items: center;
+  background-color: #725cff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-zdv .auto-group-3moy-EoA .ui-icon-document-filled-M76 {
+  margin-right: 1.3194rem;
+  width: 1.8269rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .courses-skL .classes-zdv .auto-group-3moy-EoA .course-info-gQG {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .courses-skL .main-page-oUt {
+  box-sizing: border-box;
+  padding: 1.4rem 9.457rem 1.4rem 1.725rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 14.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .main-page-oUt .ui-icon-book-filled-iLx {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0298rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .courses-skL .main-page-oUt .main-page-eEc {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .courses-skL .my-profile-ZsN {
+  box-sizing: border-box;
+  padding: 1.2rem 1.5224rem;
+  width: 22.4298rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 9.5rem;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-information-pop-up-TG4 .courses-skL .my-profile-ZsN .group-1-HoN {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.203rem;
+  width: 11.1507rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.course-information-pop-up-TG4 .courses-skL .my-profile-ZsN .group-1-HoN .ui-icon-home-filled-R8t {
+  margin: 0rem 1.218rem 0.004rem 0rem;
+  width: 2.0298rem;
+  height: 1.9964rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .courses-skL .my-profile-ZsN .group-1-HoN .my-profile-8oz {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .frame-484-T5a {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 81rem;
+  top: 66.3rem;
+  overflow: hidden;
+}
+.course-information-pop-up-TG4 .image-5-nde {
+  width: 14.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 68.7rem;
+  top: 97.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.course-information-pop-up-TG4 .todayes-iocation-X5S {
+  width: 54.4rem;
+  height: 99.8rem;
+  position: absolute;
+  left: 86.6rem;
+  top: 4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.course-information-pop-up-TG4 .todayes-iocation-X5S .edit-course-info-review-admin-only-rNc {
+  margin-bottom: 45.6rem;
+  width: 100%;
+  max-width: 28.4rem;
+  text-align: center;
+  font-size: 2.5422rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-information-pop-up-TG4 .todayes-iocation-X5S .auto-group-rx35-A8Q {
+  box-sizing: border-box;
+  padding: 3.8rem 2.7rem;
+  width: 100%;
+  height: 48rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}

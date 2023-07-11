@@ -1,0 +1,296 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 148.4rem;
+}.main_border {
+  box-sizing: border-box;
+  padding: 7.9rem 10rem 13.6rem 10.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fcfdff;
+  border-radius: 4.4rem;
+}
+.main_border .main_name {
+  margin: 0rem 14.6rem 7.5rem 0rem;
+  width: calc(100% - 14.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_border .main_name .cu_logo {
+  margin-right: 3.4rem;
+  width: 17.1rem;
+  height: 13.6rem;
+}
+.main_border .main_name .name {
+  margin-top: 0.5rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 0.4736111164;
+  color: #081131;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part {
+  margin-left: 1.5rem;
+  width: calc(100% - 1.5rem);
+  height: 57.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.main_border .login_part .head {
+  margin: 2.3rem 11.3rem 3.5rem 0rem;
+  width: 36rem;
+  height: calc(100% - 5.8rem);
+  flex-shrink: 0;
+}
+.main_border .login_part .head .headline {
+  margin-bottom: 5.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.main_border .login_part .head .headline .login-page {
+  margin-bottom: 0.7rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  letter-spacing: 0.04rem;
+  text-transform: capitalize;
+  color: #344054;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .headline .info {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #667085;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .id_part {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main_border .login_part .head .id_part .id_head {
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #344054;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .id_part .id_frame {
+  box-sizing: border-box;
+  padding: 1rem 1.4rem;
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #d0d5dd;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .id_part .id_frame .id_frame2 {
+  box-sizing: border-box;
+  padding-right: 0.25rem;
+  width: 30.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.main_border .login_part .head .id_part .id_frame .id_frame2 .id_text {
+  margin-right: 11.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #667085;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.id_text{
+  width: 30rem;
+}
+.main_border .login_part .head .id_part .id_frame .id_frame2{
+  margin-top: 0.05rem;
+  width: 1.85rem;
+  height: 1.85rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .pw_part {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main_border .login_part .head .pw_part .pw_head {
+  margin-bottom: 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #344054;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .pw_part .pw_frame {
+  box-sizing: border-box;
+  padding: 1rem 1.4rem;
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #d0d5dd;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .pw_part .pw_frame ._pw_frame2 {
+  box-sizing: border-box;
+  padding-right: 0.275rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.main_border .login_part .head .pw_part .pw_frame ._pw_frame2 .pw_text {
+  margin-right: 23.875rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #667085;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .pw_part .pw_frame ._pw_frame2 .hide-icon-9qr {
+  margin-top: 0.0273rem;
+  width: 1.85rem;
+  height: 1.5774rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .frame-8-4C8 {
+  margin: 0rem 23.9rem 3.2rem 0rem;
+  width: calc(100% - 23.9rem);
+  height: 2rem;
+  display: flex;
+  align-items: center;
+}
+.main_border .login_part .head .frame-8-4C8 .frame-7-z5n {
+  margin: 0.2rem 0.8rem 0.2rem 0rem;
+  width: 1.6rem;
+  height: calc(100% - 0.4rem);
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #d0d5dd;
+  box-sizing: border-box;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .frame-8-4C8 .remember-me-VYL {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #344054;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.main_border .login_part .head .loginbtn {
+  margin-bottom: 8rem;
+  width: 100%;
+  height: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5429ff;
+  border-radius: 0.8rem;
+}
+
+.loginbtn {
+  margin-bottom: 8rem;
+  width: 100%;
+  height: 4.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5429ff;
+  border-radius: 0.8rem;
+}
+
+.main_border .login_part .head .signup_part {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.main_border .login_part .head .signup_part .signup_part-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #344054;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.main_border .login_part .head .signup_part .signup_part-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  color: #5429ff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.main_border .login_part .main_img {
+  width: 78.7rem;
+  height: 57.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

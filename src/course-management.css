@@ -1,0 +1,2095 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.course-management-MWG {
+  box-sizing: border-box;
+  padding: 1.3rem 3.6rem 0rem 0.2rem;
+  width: 130%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #fafafa;
+}
+.course-management-MWG .left-bar-Uat {
+  margin-right: 1.9284rem;
+  box-sizing: border-box;
+  padding: 3.1rem 0.199rem 4.5rem 0.913rem;
+  width: 25.2716rem;
+  height: 105.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .auto-group-z5cf-AyW {
+  margin: 0rem 5.673rem 2.5rem 1.687rem;
+  width: calc(100% - 7.3597rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .auto-group-z5cf-AyW .image-2-uAQ {
+  margin-right: 1.3723rem;
+  width: 3.0277rem;
+  height: 2.4rem;
+  /* background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-2-bg-YQG.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .auto-group-z5cf-AyW .cuhk-course-dMJ {
+  font-size: 2.0207rem;
+  font-weight: 700;
+  line-height: 1.4999999056;
+  color: #081131;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .my-profile-wct {
+  margin-right: 1.7298rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.5224rem;
+  width: 22.4299rem;
+  height: 4.8rem;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .my-profile-wct .group-1-U72 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.203rem;
+  width: 11.1508rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.course-management-MWG .left-bar-Uat .my-profile-wct .group-1-U72 .ui-icon-home-filled-Pjn {
+  margin: 0rem 1.218rem 0.004rem 0rem;
+  width: 2.0299rem;
+  height: 1.9964rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .my-profile-wct .group-1-U72 .my-profile-Jrk {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .main-page-EEc {
+  margin: 0rem 1.73rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 9.457rem 1.4rem 1.725rem;
+  width: calc(100% - 1.7298rem);
+  display: flex;
+  align-items: center;
+  background-color: #725cff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .main-page-EEc .ui-icon-book-filled-YFJ {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0299rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .main-page-EEc .main-page-T7N {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-hdmv-J7z {
+  margin: 0rem 1.73rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 11.857rem 1.4rem 1.725rem;
+  width: calc(100% - 1.7298rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-hdmv-J7z .ui-icon-book-filled-zmW {
+  margin: 0.1rem 1.218rem 0rem 0rem;
+  width: 2.0299rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-hdmv-J7z .course-872 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn {
+  margin-left: 1.4866rem;
+  width: 22.6731rem;
+  height: 13.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zQ8 {
+  width: 20.7731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zQ8 .rectangle-8-8FS {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #725cff;
+  border-radius: 0.6rem;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zQ8 .course-management-4Pz {
+  width: 15.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zQ8 .ui-icon-document-filled-ZLk {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-tP2 {
+  width: 22.6731rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.4rem;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-tP2 .rectangle-8-1yS {
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-tP2 .course-recommndation-A5e {
+  width: 17.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.9731rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-tP2 .ui-icon-document-filled-U6L {
+  width: 1.8269rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8269rem;
+  top: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zqN {
+  box-sizing: border-box;
+  padding: 1.4rem 5.407rem 1.4rem 1.827rem;
+  width: 19.0806rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zqN .ui-icon-document-filled-hzg {
+  margin-right: 1.3194rem;
+  width: 1.8269rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .courses-ZAQ .auto-group-rls7-3jn .classes-zqN .course-info-SSU {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .admin-page-9rg {
+  margin: 0rem 1.73rem 53.1rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 8.357rem 1.2rem 1.522rem;
+  width: calc(100% - 1.7298rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .admin-page-9rg .ui-icon-message-filled-GAc {
+  margin-right: 1.0149rem;
+  width: 2.4358rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .admin-page-9rg .admin-page-18C {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .log-out-K8t {
+  margin: 0rem 1.643rem 0rem 0.087rem;
+  box-sizing: border-box;
+  padding: 1.2rem 11.657rem 1.2rem 1.522rem;
+  width: calc(100% - 1.7298rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .log-out-K8t .ui-icon-message-filled-pbS {
+  margin-right: 1.0149rem;
+  width: 2.4358rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .left-bar-Uat .log-out-K8t .log-out-xBr {
+  margin-top: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz {
+  margin-bottom: 0.9rem;
+  width: 200rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-management-oCU {
+  margin: 0rem 0rem 2.9rem 1.9rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi {
+  margin-bottom: 2.0667rem;
+  width: 200%;
+  height: 44.8333rem;
+  position: relative;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .rectangle-387-U3i {
+  width: 200rem;
+  height: 44rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn {
+  width: 150rem;
+  height: 33.3333rem;
+  position: absolute;
+  left: 2rem;
+  top: 10rem;
+  overflow: auto;
+  row-gap: 3.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .course-name-TRS {
+  margin: 0rem 0rem 0.05rem 0rem;
+  width: 13.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .date-NYQ {
+  margin: 0rem 0rem 0.05rem 0rem;
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .start-time-HvG {
+  margin: 0rem 0rem 0.05rem 0rem;
+  width:15.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .end-time-Qzt {
+  margin: 0rem 0rem 0.05rem 0rem;
+  width:16.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .location-LtY {
+  margin: 0rem 0rem 0.05rem 0rem;
+  width: 13.2rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-right: 8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .location-hh {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 0rem 0rem 0.05rem 0rem;
+  width: 7rem;
+  margin-right: 8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JYY .vector-GGQ {
+  width: 5rem;
+  height: 2.4rem;
+  
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 .course-name-xf2 {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 .date-HhJ {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 .start-time-RHi {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 .end-time-YdE {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 .location-5NG {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-on8 .vector-Ptk {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk .course-name-Fg4 {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk .date-9WY {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk .start-time-eiC {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk .end-time-ZaG {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk .location-J24 {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-7pk .vector-RsN {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya .course-name-Kxk {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya .date-rxg {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya .start-time-Bzx {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya .end-time-89W {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya .location-Fzp {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Zya .vector-PbE {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c .course-name-JCQ {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c .date-RH2 {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c .start-time-YsS {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c .end-time-Um6 {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c .location-1W8 {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-94c .vector-weg {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL .course-name-rWk {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL .date-zN4 {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL .start-time-KfE {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL .end-time-ehW {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL .location-PQC {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-JEL .vector-Wzc {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G .course-name-uG4 {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G .date-RkC {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G .start-time-ZbW {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G .end-time-VEG {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G .location-2V6 {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-k8G .vector-kfz {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE .course-name-G8Y {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE .date-n6t {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE .start-time-K6p {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE .end-time-qqr {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE .location-a2k {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-hbE .vector-VQc {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz .course-name-QGg {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz .date-Xs6 {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz .start-time-fTW {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz .end-time-o3v {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz .location-8M6 {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Esz .vector-TPN {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk .course-name-NFS {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk .date-sCC {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk .start-time-o5r {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk .end-time-7MS {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk .location-SPi {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Crk .vector-AqW {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 .course-name-5Sg {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 .date-15S {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 .start-time-8fr {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 .end-time-fQt {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 .location-bZS {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-is2 .vector-j9r {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 {
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 .course-name-SKA {
+  margin: 0rem 11.1rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 .date-ZPn {
+  margin: 0rem 13.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 .start-time-gzC {
+  margin: 0rem 9.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 .end-time-pac {
+  margin: 0rem 10.3rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 .location-MaY {
+  margin: 0rem 8.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .schedule-list-obn .hader-Ut8 .vector-gsi {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL {
+  width: 97rem;
+  height: 7.7762rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0.7rem;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .weekly-schedule-Ant {
+  margin-bottom: 1.8762rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i {
+  margin-left: 0.2rem;
+  display: flex;
+  align-items: center;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i .course-name-TGC {
+  margin-right: 5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i .date-o5A {
+  margin-right: 13.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i .start-time-Y2k {
+  margin-right: 9.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i .end-time-g8x {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i .location-Deg {
+  margin-right: 15.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .weekly-schedule-KRi .group-477-EeL .hader-i3i .status-drop-Mkt {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  margin-right: 10.4rem;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx {
+  width: 150.8rem;
+  height: 46.1rem;
+  position: relative;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .rectangle-386-eEC {
+  width: 160rem;
+  height: 46.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 {
+  box-sizing: border-box;
+  padding: 2.1rem 1.8rem 0rem 1.8rem;
+  width: 155rem;
+  height: 35rem;
+  position: absolute;
+  left: 0;
+  top: 11.1rem;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY {
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .course-code-bYk {
+  margin: 0.35rem 0rem 0rem 0rem;
+  width:15rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .course-name-82t {
+  margin: 0.35rem 0rem 0rem 0rem;
+  width :14rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .units-T5A {
+  margin: 0.35rem 0rem 0rem 0rem;
+  width:13.0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .grade-BWx {
+  margin: 0.35rem 0rem 0rem 0rem;
+  width:17rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .done-K7N {
+  margin: 0rem 4.34rem 1.85rem 0rem;
+  width:11.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .vector-44x {
+  margin: 0rem 1.5rem 0rem 0rem;
+  width:14.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .done-K7N .vector-yxc {
+  width: 5.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .open-seats-5-of-100-vN4 {
+  margin: 0.0rem 0.0rem 0rem 0rem;
+  width: 18.8rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .open-seats-5-of-100-vNN {
+  margin: 0.0rem 10.0rem 0rem 3rem;
+  width: 10rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-TSY .add-shopping-cart-SLQ {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe {
+  margin-bottom: 1.65rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .course-code-w2G {
+  margin: 0.35rem 10.4rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .course-name-TmJ {
+  margin: 0.35rem 13.6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .units-bMi {
+  margin: 0.35rem 6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .grade-ix8 {
+  margin: 0.35rem 11.3rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .done-4FJ {
+  margin: 0rem 4.34rem 1.85rem 0rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .done-4FJ .vector-CsJ {
+  margin: 0rem 1.5rem 0rem 0rem;
+  width: 1.76rem;
+  height: 1.34rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .done-4FJ .vector-LCp {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .open-seats-5-of-100-5gC {
+  margin: 0.35rem 3.9rem 0rem 0rem;
+  max-width: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-PFe .add-shopping-cart-zHN {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk {
+  margin-bottom: 1.65rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .course-code-gfz {
+  margin: 0.35rem 10.4rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .course-name-R7n {
+  margin: 0.35rem 13.6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .units-wbv {
+  margin: 0.35rem 6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .remove-5CL {
+  margin: 0rem 4rem 1.85rem 0rem;
+  box-sizing: border-box;
+  padding: 0.779rem 0rem 0.621rem 0rem;
+  width: 12rem;
+  overflow: hidden;
+  position: relative;
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-mSp.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .remove-5CL .vector-ncY {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .done-Jqn {
+  margin-right: 7.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .open-seats-5-of-100-eue {
+  margin: 0.35rem 3.9rem 0rem 0rem;
+  max-width: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-jkk .add-shopping-cart-mUU {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr {
+  margin-bottom: 1.65rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .course-code-rF2 {
+  margin: 0.35rem 10.4rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .course-name-aRv {
+  margin: 0.35rem 13.6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .units-WKa {
+  margin: 0.35rem 6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .remove-eAt {
+  margin: 0rem 4rem 1.85rem 0rem;
+  box-sizing: border-box;
+  padding: 0.779rem 0rem 0.621rem 0rem;
+  width: 12rem;
+  overflow: hidden;
+  position: relative;
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-4hE.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .remove-eAt .vector-9tL {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .done-hQ4 {
+  margin-right: 7.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .open-seats-5-of-100-qWG {
+  margin: 0.35rem 3.9rem 0rem 0rem;
+  max-width: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-Wwr .add-shopping-cart-kt8 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 {
+  margin-bottom: 1.65rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .course-code-eyW {
+  margin: 0.35rem 10.4rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .course-name-PRJ {
+  margin: 0.35rem 13.6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .units-vAL {
+  margin: 0.35rem 6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .remove-TAG {
+  margin: 0rem 4rem 1.85rem 0rem;
+  box-sizing: border-box;
+  padding: 0.779rem 0rem 0.621rem 0rem;
+  width: 12rem;
+  overflow: hidden;
+  position: relative;
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-9Ng.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .remove-TAG .vector-AqN {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .done-6yv {
+  margin-right: 7.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .open-seats-5-of-100-rCQ {
+  margin: 0.35rem 3.9rem 0rem 0rem;
+  max-width: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-uW8 .add-shopping-cart-y28 {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z {
+  margin-bottom: 1.65rem;
+  display: flex;
+  align-items: flex-start;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .course-code-4JU {
+  margin: 0.35rem 10.4rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .course-name-zT2 {
+  margin: 0.35rem 13.6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .units-vLg {
+  margin: 0.35rem 6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .remove-F84 {
+  margin: 0rem 4rem 1.85rem 0rem;
+  box-sizing: border-box;
+  padding: 0.779rem 0rem 0.621rem 0rem;
+  width: 12rem;
+  overflow: hidden;
+  position: relative;
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-C2U.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .remove-F84 .vector-AVv {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .done-Vo6 {
+  margin-right: 7.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .open-seats-5-of-100-STS {
+  margin: 0.35rem 3.9rem 0rem 0rem;
+  max-width: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-K5z .add-shopping-cart-kyv {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ {
+  margin-bottom: 3.5rem;
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .course-code-rGG {
+  margin: 0rem 10.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .course-name-ybn {
+  margin: 0rem 13.6rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .units-i3a {
+  margin: 0rem 6rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .remove-SEU {
+  margin: 0.35rem 4rem 0.35rem 0rem;
+  box-sizing: border-box;
+  padding: 0.779rem 0rem 0.621rem 0rem;
+  width: 12rem;
+  height: calc(100% - 0.7rem);
+  overflow: hidden;
+  position: relative;
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-U8Q.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .remove-SEU .vector-JnU {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .done-dJx {
+  margin-right: 7.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .open-seats-5-of-100-8Wc {
+  margin: 0rem 0.6rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-WTJ .add-shopping-cart-2rt {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc {
+  height: 2.4rem;
+  display: flex;
+  align-items: flex-end;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .course-code-tPJ {
+  margin: 0rem 10.4rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .course-name-bHi {
+  margin: 0rem 13.6rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .units-XBN {
+  margin: 0rem 6rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .remove-T52 {
+  margin: 0.35rem 4rem 0.35rem 0rem;
+  box-sizing: border-box;
+  padding: 0.779rem 0rem 0.621rem 0rem;
+  width: 12rem;
+  height: calc(100% - 0.7rem);
+  overflow: hidden;
+  position: relative;
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-HXe.png'); */
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .remove-T52 .vector-Mw6 {
+  width: 3rem;
+  height: 0.3rem;
+  background-color: #000000;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .done-79a {
+  margin-right: 7.6rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .open-seats-5-of-100-evC {
+  margin: 0rem 0.6rem 0.05rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .all-courses-Zc4 .hader-aNc .add-shopping-cart-jRr {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 {
+  width: 150rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0.9rem;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 {
+  margin-bottom: 2.1rem;
+  width: 150rem;
+  height: 5.4rem;
+  display: flex;
+  column-gap: 10.3rem;
+  align-items: center;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .courses-h1J {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .component-156-p5v {
+  box-sizing: border-box;
+  padding: 1.7rem 0.45rem;
+  width: 11.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #000000;
+  border-radius: 3.6rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .component-156-p5v .state-layer-jig {
+  width: 10.275rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .component-156-p5v .state-layer-jig .label-text-HVJ {
+  margin-right: 1.325rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  letter-spacing: 0.01rem;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .component-156-p5v .state-layer-jig .icon-bVz {
+  margin-top: 0.075rem;
+  width: 0.75rem;
+  height: 0.375rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .search-box-J9W {
+  box-sizing: border-box;
+  padding: 1.8rem 2rem 1.6rem 2rem;
+  width: 70rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .search-box-J9W .group-407-DXN {
+  width: 9.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .search-box-J9W .group-407-DXN .union-N9N {
+  margin-right: 1.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .frame-455-An4 .search-box-J9W .group-407-DXN .search-Vzg {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #9da6ba;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-407-DXN{
+  float:right;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z {
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  width: 150%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .course-code-YTA {
+  margin-right: 6.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .course-name-H9r {
+  margin-right: 5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .units-QEU {
+  margin-right:4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .grade-9C4 {
+  margin-right: 14rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .status-V12 {
+  margin-right: 9.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .seats-poz {
+  margin-right: 10rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.course-management-MWG .auto-group-lbgx-3yz .course-search-for-add-hJx .group-478-Sr4 .hader-D9z .add-NKi {
+  font-size: 1.6rem;
+  margin-left: 6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #081131;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
